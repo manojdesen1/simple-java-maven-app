@@ -6,7 +6,7 @@ public class Application {
 		System.out.println(new Application().getMessage());
 	}
 
-	private final String message = "Welcome to Simplilearn";
+	private final String message = "Welcome to Simplilearn !!! Jenkins WebHooks";
 
 	private String getMessage() {
 		
